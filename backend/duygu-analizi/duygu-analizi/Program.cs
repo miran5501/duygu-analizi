@@ -2,32 +2,47 @@
 using duygu_analizi.Data;
 using duygu_analizi.Services.Interfaces;
 using duygu_analizi.Services.Implementations;
+using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// ✅ Veritabanı bağlantısı (SQLite)
+// Veritabanı bağlantısı (SQLite)
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// ✅ Servisleri Dependency Injection’a ekle
 builder.Services.AddScoped<IKullaniciService, KullaniciService>();
 builder.Services.AddScoped<IMesajService, MesajService>();
 
-// ✅ Controller ve Swagger ayarları
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "Duygu Analizi API", Version = "v1" });
+});
+
+// CORS reacttan ve diğer yerlerden gelen istekleri karşılamak için gerekli
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", policy =>
+        policy.AllowAnyOrigin()
+              .AllowAnyHeader()
+              .AllowAnyMethod());
+});
 
 var app = builder.Build();
 
-// ✅ Geliştirme ortamı için detaylı hata ekranı
 if (app.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
-    app.UseSwagger();
-    app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+app.UseSwagger();
+app.UseSwaggerUI();
+
+app.UseCors("AllowAll");
+
+// app.UseHttpsRedirection();
+
 app.MapControllers();
+
 app.Run();
