@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\controllers\\mesajcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\controllers\\mesajcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\services\\implementations\\kullaniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\services\\implementations\\kullaniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\services\\implementations\\mesajservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\services\\implementations\\mesajservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\models\\entities\\mesaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\models\\entities\\mesaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\models\\dto\\responses\\mesajresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\models\\dto\\responses\\mesajresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\services\\interfaces\\imesajservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\services\\interfaces\\imesajservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\controllers\\kullanicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\controllers\\kullanicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\services\\interfaces\\ikullaniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\services\\interfaces\\ikullaniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\models\\dto\\responses\\kullaniciresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\models\\dto\\responses\\kullaniciresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\models\\entities\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\models\\entities\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\models\\dto\\requests\\mesajrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\models\\dto\\requests\\mesajrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\duygu-analizi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\duygu-analizi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\migrations\\20251016194607_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\migrations\\20251016194607_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KullaniciController.cs",
+              "DocumentMoniker": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Controllers\\KullaniciController.cs",
+              "RelativeDocumentMoniker": "duygu-analizi\\Controllers\\KullaniciController.cs",
+              "ToolTip": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Controllers\\KullaniciController.cs",
+              "RelativeToolTip": "duygu-analizi\\Controllers\\KullaniciController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T19:50:30.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IKullaniciService.cs",
+              "DocumentMoniker": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Services\\Interfaces\\IKullaniciService.cs",
+              "RelativeDocumentMoniker": "duygu-analizi\\Services\\Interfaces\\IKullaniciService.cs",
+              "ToolTip": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Services\\Interfaces\\IKullaniciService.cs",
+              "RelativeToolTip": "duygu-analizi\\Services\\Interfaces\\IKullaniciService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T19:53:45.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KullaniciService.cs",
+              "DocumentMoniker": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Services\\Implementations\\KullaniciService.cs",
+              "RelativeDocumentMoniker": "duygu-analizi\\Services\\Implementations\\KullaniciService.cs",
+              "ToolTip": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Services\\Implementations\\KullaniciService.cs",
+              "RelativeToolTip": "duygu-analizi\\Services\\Implementations\\KullaniciService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T19:54:20.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MesajService.cs",
+              "DocumentMoniker": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Services\\Implementations\\MesajService.cs",
+              "RelativeDocumentMoniker": "duygu-analizi\\Services\\Implementations\\MesajService.cs",
+              "ToolTip": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Services\\Implementations\\MesajService.cs",
+              "RelativeToolTip": "duygu-analizi\\Services\\Implementations\\MesajService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAALoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:28:43.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MesajController.cs",
+              "DocumentMoniker": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Controllers\\MesajController.cs",
+              "RelativeDocumentMoniker": "duygu-analizi\\Controllers\\MesajController.cs",
+              "ToolTip": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Controllers\\MesajController.cs",
+              "RelativeToolTip": "duygu-analizi\\Controllers\\MesajController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:33:56.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMesajService.cs",
+              "DocumentMoniker": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Services\\Interfaces\\IMesajService.cs",
+              "RelativeDocumentMoniker": "duygu-analizi\\Services\\Interfaces\\IMesajService.cs",
+              "ToolTip": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Services\\Interfaces\\IMesajService.cs",
+              "RelativeToolTip": "duygu-analizi\\Services\\Interfaces\\IMesajService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:28:36.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MesajResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Models\\DTO\\Responses\\MesajResponseDto.cs",
+              "RelativeDocumentMoniker": "duygu-analizi\\Models\\DTO\\Responses\\MesajResponseDto.cs",
+              "ToolTip": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Models\\DTO\\Responses\\MesajResponseDto.cs",
+              "RelativeToolTip": "duygu-analizi\\Models\\DTO\\Responses\\MesajResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T10:13:47.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mesaj.cs",
+              "DocumentMoniker": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Models\\Entities\\Mesaj.cs",
+              "RelativeDocumentMoniker": "duygu-analizi\\Models\\Entities\\Mesaj.cs",
+              "ToolTip": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Models\\Entities\\Mesaj.cs",
+              "RelativeToolTip": "duygu-analizi\\Models\\Entities\\Mesaj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:21:19.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KullaniciResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Models\\DTO\\Responses\\KullaniciResponseDto.cs",
+              "RelativeDocumentMoniker": "duygu-analizi\\Models\\DTO\\Responses\\KullaniciResponseDto.cs",
+              "ToolTip": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Models\\DTO\\Responses\\KullaniciResponseDto.cs",
+              "RelativeToolTip": "duygu-analizi\\Models\\DTO\\Responses\\KullaniciResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T10:14:35.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Models\\Entities\\Kullanici.cs",
+              "RelativeDocumentMoniker": "duygu-analizi\\Models\\Entities\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Models\\Entities\\Kullanici.cs",
+              "RelativeToolTip": "duygu-analizi\\Models\\Entities\\Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:20:42.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MesajRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Models\\DTO\\Requests\\MesajRequestDto.cs",
+              "RelativeDocumentMoniker": "duygu-analizi\\Models\\DTO\\Requests\\MesajRequestDto.cs",
+              "ToolTip": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Models\\DTO\\Requests\\MesajRequestDto.cs",
+              "RelativeToolTip": "duygu-analizi\\Models\\DTO\\Requests\\MesajRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T22:57:12.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "duygu-analizi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "duygu-analizi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:29:37.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "duygu-analizi.csproj",
+              "DocumentMoniker": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\duygu-analizi.csproj",
+              "RelativeDocumentMoniker": "duygu-analizi\\duygu-analizi.csproj",
+              "ToolTip": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\duygu-analizi.csproj",
+              "RelativeToolTip": "duygu-analizi\\duygu-analizi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-16T19:49:33.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Program.cs",
+              "RelativeDocumentMoniker": "duygu-analizi\\Program.cs",
+              "ToolTip": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Program.cs",
+              "RelativeToolTip": "duygu-analizi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:42:40.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251016194607_Init.cs",
+              "DocumentMoniker": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Migrations\\20251016194607_Init.cs",
+              "RelativeDocumentMoniker": "duygu-analizi\\Migrations\\20251016194607_Init.cs",
+              "ToolTip": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Migrations\\20251016194607_Init.cs",
+              "RelativeToolTip": "duygu-analizi\\Migrations\\20251016194607_Init.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T19:46:59.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "duygu-analizi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "duygu-analizi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T19:46:39.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\appsettings.json",
+              "RelativeDocumentMoniker": "duygu-analizi\\appsettings.json",
+              "ToolTip": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\appsettings.json",
+              "RelativeToolTip": "duygu-analizi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-16T18:42:22.203Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
