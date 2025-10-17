@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\duygu-analizi.csproj": {}
+    "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\duygu-analizi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\duygu-analizi.csproj": {
+    "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\duygu-analizi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\duygu-analizi.csproj",
+        "projectUniqueName": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\duygu-analizi.csproj",
         "projectName": "duygu-analizi",
-        "projectPath": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\duygu-analizi.csproj",
+        "projectPath": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\duygu-analizi.csproj",
         "packagesPath": "C:\\Users\\eserm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eserm\\source\\repos\\duygu-analizi\\duygu-analizi\\obj\\",
+        "outputPath": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

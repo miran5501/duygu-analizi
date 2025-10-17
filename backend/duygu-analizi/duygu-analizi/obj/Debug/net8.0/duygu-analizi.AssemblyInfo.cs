@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("duygu-analizi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26d64555e463b05bae0b14461648705029cfc675")]
 [assembly: System.Reflection.AssemblyProductAttribute("duygu-analizi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("duygu-analizi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
