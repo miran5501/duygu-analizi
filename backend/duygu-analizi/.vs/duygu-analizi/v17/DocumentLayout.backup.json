@@ -86,8 +86,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -96,7 +100,7 @@
               "RelativeDocumentMoniker": "duygu-analizi\\.dockerignore",
               "ToolTip": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\.dockerignore",
               "RelativeToolTip": "duygu-analizi\\.dockerignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-10-17T21:05:42.077Z",
               "EditorCaption": ""
@@ -111,8 +115,7 @@
               "RelativeToolTip": "duygu-analizi\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-17T21:02:46.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T21:02:46.412Z"
             },
             {
               "$type": "Document",
@@ -172,8 +175,7 @@
               "RelativeToolTip": "duygu-analizi\\Controllers\\MesajController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T20:33:56.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T20:33:56.393Z"
             },
             {
               "$type": "Document",
@@ -197,12 +199,7 @@
               "RelativeToolTip": "duygu-analizi\\duygu-analizi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-16T19:49:33.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-10-16T19:49:33.82Z"
             },
             {
               "$type": "Document",

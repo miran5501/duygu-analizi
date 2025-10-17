@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using duygu_analizi.Services.Interfaces;
+using duygu_analizi.Models.DTO.Requests;
 
 namespace duygu_analizi.Controllers
 {
@@ -15,9 +16,12 @@ namespace duygu_analizi.Controllers
         }
 
         [HttpPost("getorcreate")]
-        public IActionResult GetOrCreate([FromBody] string kullaniciAdi)
+        public IActionResult GetOrCreate([FromBody] KullaniciRequestDto dto)
         {
-            var user = _kullaniciService.GetOrCreateUser(kullaniciAdi);
+            if(dto == null)
+                return BadRequest();
+
+            var user = _kullaniciService.GetOrCreateUser(dto.KullaniciAdi);
             return Ok(user);
         }
     }
