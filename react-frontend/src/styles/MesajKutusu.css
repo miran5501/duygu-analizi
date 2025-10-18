@@ -1,0 +1,62 @@
+.mesaj-kutusu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.8rem;
+  width: 100%;
+  max-width: 800px;
+  background-color: rgba(255, 255, 255, 0.15);
+  padding: 0.7rem 1rem;
+  border-radius: 16px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+  position: sticky;
+  bottom: 0;
+}
+
+.mesaj-kutusu select {
+  background-color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 0.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  outline: none;
+}
+
+.mesaj-kutusu textarea {
+  flex: 1;
+  border: none;
+  border-radius: 10px;
+  padding: 0.7rem 1rem;
+  resize: none;
+  font-size: 1rem;
+  outline: none;
+  background-color: white;
+  color: #333;
+  transition: box-shadow 0.3s;
+}
+
+.mesaj-kutusu textarea:focus {
+  box-shadow: 0 0 5px rgba(78, 84, 200, 0.5);
+}
+
+.mesaj-kutusu button {
+  background-color: #4e54c8;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 0.6rem 1.2rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.mesaj-kutusu button:hover {
+  background-color: #3b40a4;
+}
+
+.mesaj-kutusu button:disabled {
+  background-color: #aaa;
+  cursor: not-allowed;
+}
