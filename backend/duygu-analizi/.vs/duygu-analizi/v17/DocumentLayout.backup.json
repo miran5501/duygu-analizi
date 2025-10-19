@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\services\\implementations\\mesajservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\services\\implementations\\mesajservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\services\\implementations\\kullaniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\services\\implementations\\kullaniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\controllers\\mesajcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\controllers\\mesajcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\controllers\\kullanicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\controllers\\kullanicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\models\\dto\\requests\\mesajrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\models\\dto\\requests\\mesajrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\models\\dto\\requests\\kullanicirequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\models\\dto\\requests\\kullanicirequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\duygu-analizi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\duygu-analizi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\duygu-analizi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -13,18 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\controllers\\mesajcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\controllers\\mesajcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\services\\implementations\\kullaniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\services\\implementations\\kullaniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\services\\implementations\\mesajservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\services\\implementations\\mesajservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\models\\entities\\mesaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\services\\interfaces\\imesajservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\controllers\\kullanicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\controllers\\kullanicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\services\\interfaces\\ikullaniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\services\\interfaces\\ikullaniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -53,18 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\models\\entities\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\models\\entities\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\models\\dto\\requests\\mesajrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\models\\dto\\requests\\mesajrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|solutionrelative:duygu-analizi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D85A1A65-0106-49F2-9BFD-B9FD339D708C}|duygu-analizi\\duygu-analizi.csproj|c:\\users\\eserm\\desktop\\duygu-analizi\\backend\\backend\\duygu-analizi\\duygu-analizi\\migrations\\20251016194607_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,100 +94,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KullaniciRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Models\\DTO\\Requests\\KullaniciRequestDto.cs",
+              "RelativeDocumentMoniker": "duygu-analizi\\Models\\DTO\\Requests\\KullaniciRequestDto.cs",
+              "ToolTip": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Models\\DTO\\Requests\\KullaniciRequestDto.cs",
+              "RelativeToolTip": "duygu-analizi\\Models\\DTO\\Requests\\KullaniciRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T22:37:52.465Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "duygu-analizi.http",
+              "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\duygu-analizi.http",
+              "RelativeDocumentMoniker": "duygu-analizi\\duygu-analizi.http",
+              "ToolTip": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\duygu-analizi.http",
+              "RelativeToolTip": "duygu-analizi\\duygu-analizi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-17T21:46:38.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": ".dockerignore",
               "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\.dockerignore",
               "RelativeDocumentMoniker": "duygu-analizi\\.dockerignore",
               "ToolTip": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\.dockerignore",
               "RelativeToolTip": "duygu-analizi\\.dockerignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-10-17T21:05:42.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Dockerfile",
-              "RelativeDocumentMoniker": "duygu-analizi\\Dockerfile",
-              "ToolTip": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Dockerfile",
-              "RelativeToolTip": "duygu-analizi\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-17T21:02:46.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "KullaniciController.cs",
               "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Controllers\\KullaniciController.cs",
               "RelativeDocumentMoniker": "duygu-analizi\\Controllers\\KullaniciController.cs",
               "ToolTip": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Controllers\\KullaniciController.cs",
               "RelativeToolTip": "duygu-analizi\\Controllers\\KullaniciController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T19:50:30.215Z"
+              "WhenOpened": "2025-10-16T19:50:30.215Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IKullaniciService.cs",
-              "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Services\\Interfaces\\IKullaniciService.cs",
-              "RelativeDocumentMoniker": "duygu-analizi\\Services\\Interfaces\\IKullaniciService.cs",
-              "ToolTip": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Services\\Interfaces\\IKullaniciService.cs",
-              "RelativeToolTip": "duygu-analizi\\Services\\Interfaces\\IKullaniciService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T19:53:45.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "KullaniciService.cs",
               "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Services\\Implementations\\KullaniciService.cs",
               "RelativeDocumentMoniker": "duygu-analizi\\Services\\Implementations\\KullaniciService.cs",
               "ToolTip": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Services\\Implementations\\KullaniciService.cs",
               "RelativeToolTip": "duygu-analizi\\Services\\Implementations\\KullaniciService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T19:54:20.914Z"
+              "WhenOpened": "2025-10-16T19:54:20.914Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "MesajService.cs",
               "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Services\\Implementations\\MesajService.cs",
               "RelativeDocumentMoniker": "duygu-analizi\\Services\\Implementations\\MesajService.cs",
               "ToolTip": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Services\\Implementations\\MesajService.cs",
               "RelativeToolTip": "duygu-analizi\\Services\\Implementations\\MesajService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAALoAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwBYAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T20:28:43.226Z"
+              "WhenOpened": "2025-10-16T20:28:43.226Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MesajController.cs",
               "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Controllers\\MesajController.cs",
               "RelativeDocumentMoniker": "duygu-analizi\\Controllers\\MesajController.cs",
               "ToolTip": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Controllers\\MesajController.cs",
               "RelativeToolTip": "duygu-analizi\\Controllers\\MesajController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T20:33:56.393Z"
+              "WhenOpened": "2025-10-16T20:33:56.393Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "MesajRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Models\\DTO\\Requests\\MesajRequestDto.cs",
+              "RelativeDocumentMoniker": "duygu-analizi\\Models\\DTO\\Requests\\MesajRequestDto.cs",
+              "ToolTip": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Models\\DTO\\Requests\\MesajRequestDto.cs",
+              "RelativeToolTip": "duygu-analizi\\Models\\DTO\\Requests\\MesajRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T22:57:12.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "IMesajService.cs",
               "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Services\\Interfaces\\IMesajService.cs",
               "RelativeDocumentMoniker": "duygu-analizi\\Services\\Interfaces\\IMesajService.cs",
@@ -191,7 +214,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Program.cs",
+              "RelativeDocumentMoniker": "duygu-analizi\\Program.cs",
+              "ToolTip": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Program.cs",
+              "RelativeToolTip": "duygu-analizi\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:42:40.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "duygu-analizi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "duygu-analizi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:29:37.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IKullaniciService.cs",
+              "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Services\\Interfaces\\IKullaniciService.cs",
+              "RelativeDocumentMoniker": "duygu-analizi\\Services\\Interfaces\\IKullaniciService.cs",
+              "ToolTip": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Services\\Interfaces\\IKullaniciService.cs",
+              "RelativeToolTip": "duygu-analizi\\Services\\Interfaces\\IKullaniciService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T19:53:45.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Dockerfile",
+              "RelativeDocumentMoniker": "duygu-analizi\\Dockerfile",
+              "ToolTip": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Dockerfile",
+              "RelativeToolTip": "duygu-analizi\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-17T21:02:46.412Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "duygu-analizi.csproj",
               "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\duygu-analizi.csproj",
               "RelativeDocumentMoniker": "duygu-analizi\\duygu-analizi.csproj",
@@ -203,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "MesajResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Models\\DTO\\Responses\\MesajResponseDto.cs",
               "RelativeDocumentMoniker": "duygu-analizi\\Models\\DTO\\Responses\\MesajResponseDto.cs",
@@ -215,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Mesaj.cs",
               "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Models\\Entities\\Mesaj.cs",
               "RelativeDocumentMoniker": "duygu-analizi\\Models\\Entities\\Mesaj.cs",
@@ -227,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "KullaniciResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Models\\DTO\\Responses\\KullaniciResponseDto.cs",
               "RelativeDocumentMoniker": "duygu-analizi\\Models\\DTO\\Responses\\KullaniciResponseDto.cs",
@@ -239,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Kullanici.cs",
               "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Models\\Entities\\Kullanici.cs",
               "RelativeDocumentMoniker": "duygu-analizi\\Models\\Entities\\Kullanici.cs",
@@ -251,43 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MesajRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Models\\DTO\\Requests\\MesajRequestDto.cs",
-              "RelativeDocumentMoniker": "duygu-analizi\\Models\\DTO\\Requests\\MesajRequestDto.cs",
-              "ToolTip": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Models\\DTO\\Requests\\MesajRequestDto.cs",
-              "RelativeToolTip": "duygu-analizi\\Models\\DTO\\Requests\\MesajRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T22:57:12.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "duygu-analizi\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "duygu-analizi\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T18:29:37.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Program.cs",
-              "RelativeDocumentMoniker": "duygu-analizi\\Program.cs",
-              "ToolTip": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Program.cs",
-              "RelativeToolTip": "duygu-analizi\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T18:42:40.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "20251016194607_Init.cs",
               "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Migrations\\20251016194607_Init.cs",
               "RelativeDocumentMoniker": "duygu-analizi\\Migrations\\20251016194607_Init.cs",
@@ -299,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "duygu-analizi\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -311,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\eserm\\Desktop\\duygu-analizi\\Backend\\backend\\duygu-analizi\\duygu-analizi\\appsettings.json",
               "RelativeDocumentMoniker": "duygu-analizi\\appsettings.json",
