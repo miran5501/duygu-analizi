@@ -1,0 +1,55 @@
+[
+  {
+    "ContainingType": "duygu_analizi.Controllers.KullaniciController",
+    "Method": "GetOrCreate",
+    "RelativePath": "api/Kullanici/getorcreate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "kullaniciAdi",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "duygu_analizi.Controllers.MesajController",
+    "Method": "GetMesajGecmisi",
+    "RelativePath": "api/Mesaj/gecmis/{kullaniciId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "kullaniciId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "duygu_analizi.Controllers.MesajController",
+    "Method": "PostMesajAsync",
+    "RelativePath": "api/Mesaj/mesaj-kaydet/{kullaniciId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "kullaniciId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "duygu_analizi.Models.DTO.Requests.MesajRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

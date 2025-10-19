@@ -1,0 +1,123 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "duygu-analizi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Kullanici/getorcreate": {
+      "post": {
+        "tags": [
+          "Kullanici"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "string"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "type": "string"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Mesaj/mesaj-kaydet/{kullaniciId}": {
+      "post": {
+        "tags": [
+          "Mesaj"
+        ],
+        "parameters": [
+          {
+            "name": "kullaniciId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/MesajRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/MesajRequestDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/MesajRequestDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Mesaj/gecmis/{kullaniciId}": {
+      "get": {
+        "tags": [
+          "Mesaj"
+        ],
+        "parameters": [
+          {
+            "name": "kullaniciId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "MesajRequestDto": {
+        "type": "object",
+        "properties": {
+          "mesaj": {
+            "type": "string",
+            "nullable": true
+          },
+          "dil": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

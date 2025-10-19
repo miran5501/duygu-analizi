@@ -1,0 +1,19 @@
+# build klasörleri
+bin/
+obj/
+.vs/
+.git/
+
+# yerel veritabaný dosyalarý (SQLite)
+*.db
+*.db-shm
+*.db-wal
+
+# geçici dosyalar
+*.user
+*.swp
+*.tmp
+*.log
+
+# HTTP test dosyasý
+duygu-analizi.http
